@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Space Impact" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Space Impact" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="opengl32" />
+					<Add library="glu32" />
+					<Add library="glut32" />
+					<Add library="glaux" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libwinmm.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Space Impact" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Credits.bmp-Backup.bmp" />
+		<Unit filename="bullet_x_point.txt" />
+		<Unit filename="bullet_y_point.txt" />
+		<Unit filename="flag.txt" />
+		<Unit filename="flag_for_bullet.txt" />
+		<Unit filename="flag_for_enemy_bullet.txt" />
+		<Unit filename="iGraphics.h" />
+		<Unit filename="last power.txt" />
+		<Unit filename="last score.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="not arrays.txt" />
+		<Unit filename="scores.txt" />
+		<Unit filename="someFunctions.h" />
+		<Unit filename="x_enemy.txt" />
+		<Unit filename="x_enemy_bullet.txt" />
+		<Unit filename="y_enemy.txt" />
+		<Unit filename="y_enemy_bullet.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

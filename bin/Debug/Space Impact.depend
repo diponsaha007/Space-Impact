@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1530103399 source:c:\users\apurba saha\desktop\space impact\functions.cpp
+	"iGraphics.h"
+
+1530535387 c:\users\apurba saha\desktop\space impact\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530536097 source:c:\users\apurba saha\desktop\space impact\main.cpp
+	"iGraphics.h"
+
+1530103563 c:\users\apurba saha\desktop\space impact\drawing.h
+	"iGraphics.h"
+
+1530384354 c:\users\apurba saha\desktop\space impact\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530384352 c:\users\apurba saha\desktop\space impact\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1530534788 c:\users\apurba saha\desktop\space impact\texturelist.h
+	"texture.h"
+
+1530384362 c:\users\apurba saha\desktop\space impact\texture.h
+
+1530824557 source:c:\users\user\desktop\new folder\main.cpp
+	"iGraphics.h"
+
+1530666780 c:\users\user\desktop\new folder\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530951852 source:c:\users\user\desktop\new folder 1.1\main.cpp
+	"iGraphics.h"
+
+1530666780 c:\users\user\desktop\new folder 1.1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530867415 c:\users\user\desktop\new folder 1.1\enemy.h
+
+1530928572 source:c:\users\apurba saha\downloads\compressed\new folder 1.1.1-20180707t151335z-001\new folder 1.1.1\main.cpp
+	"iGraphics.h"
+
+1530928570 c:\users\apurba saha\downloads\compressed\new folder 1.1.1-20180707t151335z-001\new folder 1.1.1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530994875 source:c:\users\apurba saha\desktop\new folder 1.1.1\main.cpp
+	"iGraphics.h"
+	"someFunctions.h"
+
+1530928570 c:\users\apurba saha\desktop\new folder 1.1.1\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1530986268 c:\users\apurba saha\desktop\new folder 1.1.1\apurba.h
+
+1530994751 c:\users\apurba saha\desktop\new folder 1.1.1\somefunctions.h
+
+1531366937 source:c:\users\apurba saha\desktop\project 1.1.2\main.cpp
+	"iGraphics.h"
+	"someFunctions.h"
+
+1530928570 c:\users\apurba saha\desktop\project 1.1.2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1531144092 c:\users\apurba saha\desktop\project 1.1.2\somefunctions.h
+
+1532497513 source:f:\1.1.2\main.cpp
+	"iGraphics.h"
+	"someFunctions.h"
+
+1532136748 f:\1.1.2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532463027 f:\1.1.2\somefunctions.h
+
+1532500060 source:c:\users\apurba saha\desktop\1.1.2\main.cpp
+	"iGraphics.h"
+	"someFunctions.h"
+
+1532136748 c:\users\apurba saha\desktop\1.1.2\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532500060 c:\users\apurba saha\desktop\1.1.2\somefunctions.h
+
